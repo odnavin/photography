@@ -7,13 +7,13 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Odette"
-subtitle: "See the world through my eyes"
+# subtitle: "See the world through my eyes"
 author: "Odette"
 header:
  title: "Photography"
  subtitle: "by Odette"
 footer:
- name: "Hey there, my name is Odette"
+ name: "My name is Odette."
  bio: "Pairing intimate poetry with local photography, this digital anthology invites viewers to keep San Francisco, through every fractured and ambitious iteration, close to their hearts."
 # github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/rampatra/photography\">fork this repo on github</a> ;)"
 web_design: "AJ"
