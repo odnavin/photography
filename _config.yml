@@ -19,11 +19,12 @@ footer:
 
 web_design: "AJ"
 social_urls:
-#  twitter: "https://www.twitter.com/rampatra_"
   instagram: "https://www.instagram.com/nb.nwhere?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr"
-# dribbble: "https://dribbble.com/rampatra"
-#  linkedin: "https://in.linkedin.com/in/ram-patra"
-# github: "https://www.github.com/rampatra"
+#  twitter: "https://www.twitter.com/yourhandle"
+#  facebook: "https://www.facebook.com/yourhandle"
+#  linkedin: "https://www.linkedin.com/in/yourhandle"
+#  github: "https://www.github.com/yourhandle"
+#  dribbble: "https://dribbble.com/yourhandle"
 
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
